@@ -6,13 +6,8 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.utils.markdown import text
-from aiogram.types import InlineKeyboardButton, KeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
 from config import bot
 from kb import *
-# from fms import *
-# from fms import pass_level
-# from fms import Pswd
-# from fms import length
 
 bot = bot
 storage = MemoryStorage()
