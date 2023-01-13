@@ -3,7 +3,7 @@ import string
 import secrets
 from telebot import types
 
-bot = telebot.TeleBot('5713546444:AAHSLg8ZoFCd4-xZhiuc8rU4CbUenwMoh2g')
+bot = telebot.TeleBot('57XXXXXXXX:AAHSLg8ZoFXXXXXXXXXX8rU4CXXXXXXXXXX')
 length = 0
 
 
