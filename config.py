@@ -1,3 +1,3 @@
 from aiogram import Bot
 
-bot = Bot('5713546444:AAHSLg8ZoFCd4-xZhiuc8rU4CbUenwMoh2g')
+bot = Bot('57XXXXXXXX:AAHSLg8ZoFXXXXXXXXXX8rU4CXXXXXXXXXX')
