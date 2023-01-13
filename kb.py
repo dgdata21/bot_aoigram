@@ -1,7 +1,7 @@
 from aiogram.types import InlineKeyboardButton, KeyboardButton, InlineKeyboardMarkup, ReplyKeyboardMarkup
 
 
-button1 = KeyboardButton(text='Меню комманд', callback_data='/help')
+button1 = KeyboardButton(text='Меню команд', callback_data='/help')
 button2 = InlineKeyboardButton(text='Полезные ссылки',
                                url='http://it-uroki.ru/uroki/bezopasnost/parol/'
                                    'pravila-sozdaniya-i-xraneniya-parolej.html')

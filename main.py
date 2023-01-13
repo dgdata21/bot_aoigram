@@ -42,7 +42,7 @@ async def help_cmd(message: types.Message):
     await message.answer(help_msg)
 
 
-@dp.message_handler(lambda message: message.text == "Меню комманд")
+@dp.message_handler(lambda message: message.text == "Меню команд")
 async def registration(message: types.Message):
     await message.answer(help_msg)
 
